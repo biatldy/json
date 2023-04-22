@@ -18,12 +18,14 @@
 # clangd cache
 /.cache/
 
+
 # build directories (vscode-cmake-tools, user-defined, ...)
 /build*/
 
 # fuzzers
 /tests/corpus_*
 /tests/parse_*_fuzzer
+
 
 # documentation
 /docs/docset/docSet.dsidx
