@@ -9,12 +9,10 @@ keywords:
   - "c++"
   - "json"
   
-
 repositories:
   - type: main
     url: "https://github.com/nlohmann/json"
     
-
 authors:
   - name: "Niels Lohmann"
     email: "mail@nlohmann.me"
